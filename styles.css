@@ -1,0 +1,81 @@
+body {
+    font-family: Montserrat;
+    background: #FFF8E1;
+    color: #52260D;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:link {
+    color: #000000;
+}
+
+#logo {
+    padding: 0;
+    margin: 0;
+}
+
+.menu {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0px;
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 22px;
+    letter-spacing: 0.165em;
+    text-decoration: underline;
+}
+
+.menu:hover {
+    color: rgb(235, 235, 136);
+}
+
+h1 {
+    padding: 102px;
+    padding-top: 328px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    letter-spacing: 0.165em;
+    color: #52260D;
+}
+
+button {
+    background-color: #FFF8E1;
+    cursor: pointer;
+}
+
+#mainpic {
+    float: right;
+}
+
+#tocontact {
+    margin: 174px;
+    margin-top: 70px;
+    border-radius: 9px;
+    border-color: #52260D;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    letter-spacing: 0.32em;
+    text-align: center;
+}
+
+#mail,
+#telegram {
+    border: none;
+}
+
+#tocontact:hover {
+    color: rgb(187, 35, 60);
+}
+
+aside {
+    float: right;
+}
